@@ -1,0 +1,48 @@
+# Reference transcriptions for the pilot recordings.
+#
+# Format: filename <TAB> Teochew orthography <TAB> Mandarin gloss
+# Lines beginning with '#' are ignored.
+#
+# ref_char  records what the speaker actually said in Teochew, written in
+#           Chinese characters as used by the speaker (e.g. 食, 伊, 汝, 鼎).
+# ref_gloss records the same proposition in standard written Mandarin
+#           (e.g. 吃, 他, 你, 锅).
+#
+# Both columns are ordinary transcriptions that any Teochew-Mandarin bilingual
+# can produce without phonological training. The distance between them is the
+# quantity under investigation: it measures how much credit an ASR system can
+# gain by rendering a Teochew utterance into a Mandarin-shaped written form.
+#
+# Note: edit this file only in a plain-text editor. Spreadsheet applications
+# (Excel, Numbers) replace tab characters and break the format.
+#
+# The five rows at the bottom are recorded but not yet transcribed; uncomment
+# each row once it is filled in.
+# ============================================================
+
+sp01_teo.wav	我食饭矣	我吃饭了
+sp02_teo.wav	伊无来	他没来
+sp03_teo.wav	汝爱去底块	你要去哪里
+sp04_teo.wav	阮兜伫潮州	我们家在潮州
+sp05_teo.wav	个物件偌重	这个东西多重
+sp06_teo.wav	天时真烧	天气很热
+sp07_teo.wav	鼎内煮糜	锅里煮着粥
+sp08_teo.wav	阿弟睏去矣	弟弟睡着了
+sp09_teo.wav	逐日行路去街市	每天走路去市场
+sp10_teo.wav	阿姊拍电话	姐姐打电话
+sp01_mnd.wav	我吃饭了	我吃饭了
+sp02_mnd.wav	他没来	他没来
+sp03_mnd.wav	你要去哪里	你要去哪里
+sp04_mnd.wav	我们家在潮州	我们家在潮州
+sp05_mnd.wav	这个东西多重	这个东西多重
+sp06_mnd.wav	天气很热	天气很热
+sp07_mnd.wav	锅里煮着粥	锅里煮着粥
+sp08_mnd.wav	弟弟睡着了	弟弟睡着了
+sp09_mnd.wav	每天走路去市场	每天走路去市场
+sp10_mnd.wav	姐姐打电话	姐姐打电话
+# ---- Recorded but not yet transcribed; uncomment when filled in. ----
+# sp17_teo.wav	<digits as spoken in Teochew>	<the same digits>
+# sp21_teo.wav	<self-introduction, Teochew>	<Mandarin gloss>
+# sp22_teo.wav	<what I did today, Teochew>	<Mandarin gloss>
+# sp23_teo.wav	<a hometown festival, Teochew>	<Mandarin gloss>
+# sp24_teo.wav	<free conversation, Teochew>	<Mandarin gloss>

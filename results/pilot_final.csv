@@ -1,0 +1,21 @@
+condition,item,reference,hypothesis,reference_mandarin,cer_raw,cer_folded,exact_match
+teochew,teochew_01,我食饭矣,哇 假烹调,我吃饭了,125,125,0
+teochew,teochew_02,伊无来,伊摩拉,他没来,66.67,66.67,0
+teochew,teochew_03,汝爱去底块,樂艾克帝國,你要去哪里,100,100,0
+teochew,teochew_04,阮兜伫潮州,望来老蝶鸠,我们家在潮州,100,100,0
+teochew,teochew_05,个物件偌重,共和家解单,这个东西多重,100,100,0
+teochew,teochew_06,天时真烧,填兮桂若,天气很热,100,100,0
+teochew,teochew_07,鼎内煮糜,将来折磨,锅里煮着粥,100,100,0
+teochew,teochew_08,阿弟睏去矣,阿丁可留,弟弟睡着了,80,80,0
+teochew,teochew_09,逐日行路去街市,湯汁怕鹿膈蓋痴,每天走路去市场,100,100,0
+teochew,teochew_10,阿姊拍电话,阿姨在拍攝中,姐姐打电话,80,80,0
+mandarin,mandarin_01,我吃饭了,我吃饭了,我吃饭了,0,0,1
+mandarin,mandarin_02,他没来,她沒來,他没来,100,33.33,0
+mandarin,mandarin_03,你要去哪里,你要去哪里?,你要去哪里,0,0,1
+mandarin,mandarin_04,我们家在潮州,我们家在潮州,我们家在潮州,0,0,1
+mandarin,mandarin_05,这个东西多重,这个东西多重,这个东西多重,0,0,1
+mandarin,mandarin_06,天气很热,天气很热,天气很热,0,0,1
+mandarin,mandarin_07,锅里煮着粥,锅里煮着粥,锅里煮着粥,0,0,1
+mandarin,mandarin_08,弟弟睡着了,弟弟睡着了,弟弟睡着了,0,0,1
+mandarin,mandarin_09,每天走路去市场,每天走路去市场,每天走路去市场,0,0,1
+mandarin,mandarin_10,姐姐打电话,姐姐打電話,姐姐打电话,40,0,1

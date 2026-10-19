@@ -1,0 +1,8 @@
+torch
+torchaudio
+faster-whisper
+datasets
+soundfile
+jiwer
+pandas
+av
